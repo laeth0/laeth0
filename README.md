@@ -23,9 +23,9 @@
 
 <br />
 <br />
-<p align="center" style="display:flex;">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=laeth0&" alt="laeth0" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=laeth0&show_icons=true&locale=en" alt="laeth0" />
+<p align="center" >
+  <img style="width=48%;" src="https://github-readme-streak-stats.herokuapp.com/?user=laeth0&" alt="laeth0" />
+  <img style="width=48%;" src="https://github-readme-stats.vercel.app/api?username=laeth0&show_icons=true&locale=en" alt="laeth0" />
 </p>
 
 

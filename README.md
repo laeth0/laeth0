@@ -24,8 +24,8 @@
 <br />
 <br />
 <p align = "center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=laeth0&" alt="laeth0" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=laeth0&show_icons=true&locale=en" alt="laeth0" />
+  <img style="width:40%; " src="https://github-readme-streak-stats.herokuapp.com/?user=laeth0&" alt="laeth0" />
+  <img style="width:40%; "  src="https://github-readme-stats.vercel.app/api?username=laeth0&show_icons=true&locale=en" alt="laeth0" />
 </p>
 
 
